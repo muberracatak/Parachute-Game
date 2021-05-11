@@ -1,5 +1,6 @@
 # Parachute Game
-![Ekran Alıntısı](https://user-images.githubusercontent.com/55498680/117759519-98651a80-b22c-11eb-9b24-22be04718b5a.PNG)
+![image](https://user-images.githubusercontent.com/55498680/117761524-268ed000-b230-11eb-96e8-7d3e94406167.png)
+
 
 ## Getting Started
 
