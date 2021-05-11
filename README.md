@@ -25,6 +25,6 @@ Javascript, HTML5, CSS
 
 #### Müberra ÇATAK
 
-## WANTED TO ADD TO THE PROJECT
+## Wanted to add to the project
 
 What I want to add to the game is to add different characters (these characters will be bad characters) to game is over when they touch them, to change the color and shape of the bricks and the background at regular intervals in the game.
