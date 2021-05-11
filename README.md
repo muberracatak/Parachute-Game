@@ -12,7 +12,7 @@ The code can be downloaded by copying the Github -> repository address and makin
 
 ## Server address
 
-muberracatak.eu5.org
+http://parachutegame.eu5.org/
 
 ## Deployment
 
