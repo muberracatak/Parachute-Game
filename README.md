@@ -1,5 +1,5 @@
 # Parachute Game
-![image](https://user-images.githubusercontent.com/55498680/117761524-268ed000-b230-11eb-96e8-7d3e94406167.png)
+![image](https://user-images.githubusercontent.com/55498680/117822474-4399c200-b275-11eb-939e-b1af9593a67e.png)
 
 
 ## Getting Started
