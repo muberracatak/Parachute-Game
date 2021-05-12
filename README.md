@@ -1,18 +1,18 @@
-# Parachute Game
+t# Parachute Game
 ![image](https://user-images.githubusercontent.com/55498680/118009118-74055d00-b356-11eb-9b11-d74243cec9d3.png)
 
 
 ## Getting Started
 
-The project is a game written using Javascript, HTML, CSS. The game is played by passing the bricks on the left and right without touching them. When the bricks are not touched from the top, bottom or side, the game is lost and the page is refreshed and the game starts from the beginning. 
+This project is for a game written by using Javascript, HTML, CSS. The game is played by passing through the bricks on the left and right without touching them.The Main Character can move right, left, up and down. When the bricks are touched from the top, bottom or side, the game is lost and the page is refreshed and the game starts from the beginning. When it touches the bird in the game, the bird bonus counter increases. When Score is 5, the game gets faster and harder.
 
 ### Installing
 
-The code can be downloaded by copying the Github -> repository address and making clone repository in IDE s such as visual studio code.
+The code can be downloaded by copying the Github -> repository address and making clone repository in IDE's such as visual studio code.
 
 ## Server address
 
-http://parachutegame.eu5.org/
+http://flyparachutegame2.eu5.org/
 
 ## Deployment
 
@@ -28,4 +28,4 @@ Javascript, HTML5, CSS
 
 ## Wanted to add to the project
 
-What I want to add to the game is to add different characters (these characters will be bad characters) to game is over when they touch them, to change the color and shape of the bricks and the background at regular intervals in the game.
+What I want to add to the game is passing through helicopters without touching them.At the end landing on a boat at the sea. I want add obstacles on passage routes. To change the color and shape of the bricks and the background at regular intervals in the game.
