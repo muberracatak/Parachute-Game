@@ -1,4 +1,4 @@
-t# Parachute Game
+# Parachute Game
 ![image](https://user-images.githubusercontent.com/55498680/118009118-74055d00-b356-11eb-9b11-d74243cec9d3.png)
 
 
